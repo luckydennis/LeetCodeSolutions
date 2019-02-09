@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{09D53C7B-42F7-42C2-9849-5AAA5B8182F1}</ProjectGuid>
+    <ProjectGuid>{4048E198-96D5-4AFB-9652-C690561028CB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>reverseInt</RootNamespace>
-    <AssemblyName>reverseInt</AssemblyName>
+    <RootNamespace>romanInteger</RootNamespace>
+    <AssemblyName>romanInteger</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
