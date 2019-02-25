@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "romanInteger", "..\..\roman
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{7AE83BD7-1542-4C7A-B0DA-5F6B60F9AA70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{FEA49841-73FF-434E-B7DF-802FBE3760D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxSubArray", "maxSubArray\maxSubArray.csproj", "{00521BAE-01F8-4CB9-A37F-393ECF5D84D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{7AE83BD7-1542-4C7A-B0DA-5F6B60F9AA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE83BD7-1542-4C7A-B0DA-5F6B60F9AA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AE83BD7-1542-4C7A-B0DA-5F6B60F9AA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA49841-73FF-434E-B7DF-802FBE3760D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA49841-73FF-434E-B7DF-802FBE3760D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA49841-73FF-434E-B7DF-802FBE3760D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA49841-73FF-434E-B7DF-802FBE3760D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00521BAE-01F8-4CB9-A37F-393ECF5D84D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00521BAE-01F8-4CB9-A37F-393ECF5D84D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00521BAE-01F8-4CB9-A37F-393ECF5D84D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00521BAE-01F8-4CB9-A37F-393ECF5D84D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
